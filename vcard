@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GSG Stores | Saritha T Digital Vcard</title>
+  <meta name="description"
+    content="We offer a wide range of products for your needs. We have products for your kitchen, health, and personal care." />
+
+  <!-- Meta OG -->
+  <meta property="og:title" content="GSG Store | Saritha T Digital Vcard" />
+  <meta property="og:url" content="https://vfolio.github.io/gsg-stores/" />
+  <meta property="og:description"
+    content="We offer a wide range of products for your needs. We have products for your kitchen, health, and personal care." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://vfolio.github.io/gsg-stores/img/profile.jpg" />
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    iframe {
+      border: none;
+      outline: none;
+    }
+  </style>
+</head>
+
+<body>
+  <iframe src="https://drive.google.com/file/d/1WElJ_M9o8nHltmIWzw9n5pbJTTeygBLU/preview" width="100%" height="100%"
+    allow="autoplay"></iframe>
+</body>
+
+</html>
